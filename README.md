@@ -24,7 +24,8 @@ QA
 Scrum Master
 ------------
 * 每个迭代要有燃起图，并每日更新
-* 记录Story Cycle Time
+* 记录PBI Cycle Time
+* 每个非planned任务必须估算
 * 不定期Grooming。Grooming三件事：拆分、估算、定义AC
 * Sprint review要做showcase
 
